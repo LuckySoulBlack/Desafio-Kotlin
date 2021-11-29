@@ -1,2 +1,9 @@
-class Professor {
+
+
+class Professor ( professor) {
+    fun registrarProfessortitular() {
+
+    }
+
+
 }
